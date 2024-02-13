@@ -1,3 +1,6 @@
+# Dataset is too large to be uploaded to GitHub
+*.mat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
